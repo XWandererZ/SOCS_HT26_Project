@@ -1,0 +1,12 @@
+# Mac
+*.DS_Store
+
+# latex compilation files
+*.out
+*.aux
+*.log
+*.gz
+
+
+
+
